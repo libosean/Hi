@@ -1,37 +1,81 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<!-- saved from url=(0148)https://andrejarl.github.io/Anti-rejectionProposalPrank.github.io/proposal.html?fbclid=IwAR2ARvrDFyMyLQ3Ear_P1Cr9Lf3ETHH2o8T9QDMF54KSdbX7ZvPWRBLoTVY -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">		
+	<link rel="stylesheet" href="./Proposal_files/proposal.css">
+				
+				<title>Tara Duo</title>
+</head>
+<body>
+				<div class="g1">
+						<div class="group1">
+  				<button id="btt1">NO</button>	
+					<button id="btt2">NO</button>	
+ 		  		<button id="btt3">NO</button>	
+					<button id="btt4">NO</button>	
+					<button id="btt5">NO</button>	
+					<button id="btt6">NO</button>	
+					<button id="btt7">NO</button>				
+					<button id="btt8">NO</button>	
+					<button id="btt9">NO</button>	
+					<button id="btt10">NO</button>	
+					<button id="btt11">NO</button>	
+					<button id="btt12">NO</button>	
+					
+				</div>		
+							<div class="images1">
+				<img class="sadcat" id="sadcat" src="./Proposal_files/sadcat.jpeg" alt="">
+		<img class="crying" id="crying" src="./Proposal_files/sad-guy-crying-guy.gif" alt="">
+		
+	<img class="sadboi" id="sadboi" src="./Proposal_files/sadboi.jpeg" alt="">
+	<img id="sadsad" src="./Proposal_files/sadsad.jpeg" alt="">
+	</div>
+				
+				<div class="ask">
+						
+												<p> <span class="crush">HI CRUSH</span> <br>
+																I like you a lot, wanna duo?</p>
+								<div class="btn">
+<a href="https://andrejarl.github.io/Anti-rejectionProposalPrank.github.io/yes.html"><button id="btn1">Yes</button>		</a>			    <button id="btn2">No</button>
+								</div>				
+<img id="hands" src="./Proposal_files/hands.png" alt="">								
+				</div>					
+				
+				<div class="g1">
+				<div class="images2">
+								<div class="group1">
+  					<button id="bbtt1">NO</button>	
+					<button id="bbtt2">NO</button>	
+ 		  		<button id="bbtt3">NO</button>	
+					<button id="bbtt4">NO</button>	
+					<button id="bbtt5">NO</button>	
+					<button id="bbtt6">NO</button>	
+					<button id="bbtt7">NO</button>				
+					<button id="bbtt8">NO</button>	
+					<button id="bbtt9">NO</button>	
+					<button id="bbtt10">NO</button>	
+					<button id="bbtt11">NO</button>	
+					<button id="bbtt12">NO</button>	
+				</div>
+								
+								<div class="images1">
+				
+	<img class="sadman" id="sadman" src="./Proposal_files/sadman.jpeg" alt="">
+	
+	<img class="hahahuhu" id="hahahuhu" src="./Proposal_files/sad-man-tik-tok-meme.gif" alt="">
+	
+	<img id="hang" src="./Proposal_files/hang.jpeg" alt="">
+	
+	<img id="frog" src="./Proposal_files/frog.jpeg" alt="">
+	
+	</div>																	
+				</div>
+				
+				<div class="fff">
+								<p>created by Johnell Libo</p>
+				</div>
+				
+				<script src="./Proposal_files/proposalv2.js.download"></script>
 
-You can use the [editor on GitHub](https://github.com/libosean/Hi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/libosean/Hi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</div></div></body></html>
